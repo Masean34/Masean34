@@ -1,427 +1,195 @@
 <div align="center">
 
-<!-- ================= HERO ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&text=&section=header" />
+# DEAN
 
-<br/>
+<p align="center">
+  <samp>Software Engineering Student &bull; Indonesia</samp>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=3000&pause=1000&color=F8F9FA&center=true&vCenter=true&width=600&height=70&lines=DEAN;SOFTWARE+ENGINEER" alt="Typing SVG" />
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=C1121F&center=true&vCenter=true&width=450&lines=Precision+in+code.;Calm+under+pressure.;Engineering+the+future." alt="Typing SVG" /></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1200&color=C1121F&center=true&vCenter=true&width=650&height=40&lines=Precision+in+every+line+of+code.;Discipline+builds+great+software.;Focused.+Calm.+Relentless." alt="Typing SVG" />
+<br>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-C1121F?style=for-the-badge&labelColor=0D1117&color=C1121F" />
-<img src="https://img.shields.io/badge/LOCATION-INDONESIA-161B22?style=for-the-badge&labelColor=0D1117&color=E11D48" />
-<img src="https://img.shields.io/badge/ROLE-SWE%20STUDENT-161B22?style=for-the-badge&labelColor=0D1117&color=C1121F" />
-
-<br/><br/>
-
-<a href="#-mission-log">
-  <img src="https://img.shields.io/badge/VIEW_PROFILE-C1121F?style=for-the-badge&logoColor=white" />
-</a>
-<a href="#-featured-projects">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-161B22?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="300" style="opacity: 0.7;" alt="divider" />
+</p>
 
 </div>
 
-<br/>
+---
 
-<!-- ================= DIVIDER ================= -->
-<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<br>
 
-<br/>
+## <p align="center">01 // ABOUT ME</p>
 
-<!-- ================= ACCESS TERMINAL ================= -->
-<div align="center">
-
-### ACCESS TERMINAL
-
-</div>
-
-<table width="100%">
-<tr>
-<td>
-
-```ansi
-[38;2;193;18;31mâ•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—[0m
-[38;2;193;18;31mâ•‘[0m  SYSTEM BOOT SEQUENCE INITIATED...                                [38;2;193;18;31mâ•‘[0m
-[38;2;193;18;31mâ•‘[0m  â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“  100%                     [38;2;193;18;31mâ•‘[0m
-[38;2;193;18;31mâ•‘[0m                                                                    [38;2;193;18;31mâ•‘[0m
-[38;2;225;29;72mâ•‘[0m  >> IDENTITY VERIFIED                                              [38;2;225;29;72mâ•‘[0m
-[38;2;225;29;72mâ•‘[0m                                                                    [38;2;225;29;72mâ•‘[0m
-[38;2;248;249;250mâ•‘[0m     NAME        :  Dean                                           [38;2;248;249;250mâ•‘[0m
-[38;2;248;249;250mâ•‘[0m     STATUS      :  â— ONLINE                                       [38;2;248;249;250mâ•‘[0m
-[38;2;248;249;250mâ•‘[0m     ROLE        :  Software Engineering Student                   [38;2;248;249;250mâ•‘[0m
-[38;2;248;249;250mâ•‘[0m     ORIGIN      :  Indonesia                                      [38;2;248;249;250mâ•‘[0m
-[38;2;248;249;250mâ•‘[0m     MISSION     :  Building useful, focused software.             [38;2;248;249;250mâ•‘[0m
-[38;2;248;249;250mâ•‘[0m                                                                    [38;2;248;249;250mâ•‘[0m
-[38;2;193;18;31mâ•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•[0m
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ================= MISSION LOG ================= -->
-<div align="center">
-
-### MISSION LOG
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="100%">
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/ID--001-ABOUT-0D1117?style=flat-square&labelColor=161B22&color=C1121F" />
-
-<br/><br/>
-
-**I approach code the way a squad leader approaches a mission â€”**
-**with precision, discipline, and zero wasted motion.**
-
-<br/>
-
-I'm a Software Engineering student from **Indonesia**, currently
-sharpening my skills in mobile and web development. I believe great
-software â€” like great leadership â€” comes from clarity of vision and
-relentless focus on the fundamentals.
-
-<br/>
-
-When I'm not writing code, you'll find me analyzing race strategy
-on the F1 grid, refining interfaces pixel by pixel, building worlds
-in Minecraft, or writing stories that live in my head.
-
-<br/>
-
-</div>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ================= TECH ARSENAL ================= -->
-<div align="center">
-
-### TECH ARSENAL
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,js,git,html,css,figma&theme=dark" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="140">
-<b>Flutter</b><br/>
-<sub style="color:#C1121F">Learning</sub>
-</td>
-<td align="center" width="140">
-<b>Dart</b><br/>
-<sub style="color:#C1121F">Learning</sub>
-</td>
-<td align="center" width="140">
-<b>PHP</b><br/>
-<sub style="color:#C1121F">Learning</sub>
-</td>
-<td align="center" width="140">
-<b>MySQL</b><br/>
-<sub style="color:#C1121F">Learning</sub>
-</td>
-<td align="center" width="140">
-<b>JavaScript</b><br/>
-<sub style="color:#C1121F">Learning</sub>
-</td>
-<td align="center" width="140">
-<b>Git</b><br/>
-<sub style="color:#C1121F">Learning</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ================= FEATURED PROJECTS ================= -->
-<div align="center">
-
-### FEATURED PROJECTS
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<br>
 
 <div align="center">
-
-<img width="100%" height="180" src="https://images.unsplash.com/photo-1517842645767-c639042777db?w=800&q=80" style="border-radius:8px; object-fit:cover;" />
-
-<br/><br/>
-
-**QUOTE OF THE DAY**
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-C1121F?style=flat-square&labelColor=0D1117" />
-
-<br/><br/>
-
-<sub>
-A minimal application that delivers a fresh dose of daily
-inspiration â€” clean UI, simple logic, built for consistency
-over complexity.
-</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=C1121F" />
-<img src="https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart&logoColor=C1121F" />
-
-<br/><br/>
-
-<a href="#">
-<img src="https://img.shields.io/badge/VIEW_REPO-C1121F?style=for-the-badge&logoColor=white" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/LIVE_DEMO-161B22?style=for-the-badge&logoColor=white" />
-</a>
-
+  <table width="100%" style="border: 1px solid #161B22; border-radius: 12px; background-color: #0D1117; padding: 20px;">
+    <tr>
+      <td align="center">
+        <p align="left" style="color: #F8F9FA; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; margin: 20px;">
+          I am a Software Engineering student based in Indonesia, driven by a relentless focus on clean architecture, precision, and minimalist design. Inspired by calculated strategy and high-performance execution, I bridge the gap between robust backend logic and fluid, modern user experiences. When I am not engineering software, you can find me analyzing Formula 1 telemetry, designing intuitive interfaces, crafting immersive dark fantasy narratives, or optimizing digital systems.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-</td>
-<td width="50%" valign="top">
+<br>
+
+---
+
+<br>
+
+## <p align="center">02 // MISSION LOG</p>
+
+<br>
 
 <div align="center">
-
-<img width="100%" height="180" src="https://images.unsplash.com/photo-1594736797933-d0c6dd28e3ba?w=800&q=80" style="border-radius:8px; object-fit:cover;" />
-
-<br/><br/>
-
-**F1 COMPANION**
-
-<img src="https://img.shields.io/badge/STATUS-COMING_SOON-E11D48?style=flat-square&labelColor=0D1117" />
-
-<br/><br/>
-
-<sub>
-A companion app for race weekends â€” live standings, schedules,
-and strategy insights, built for fans who study the sport like
-a discipline.
-</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=E11D48" />
-<img src="https://img.shields.io/badge/API-161B22?style=flat-square&logo=fastapi&logoColor=E11D48" />
-
-<br/><br/>
-
-<a href="#">
-<img src="https://img.shields.io/badge/IN_DEVELOPMENT-161B22?style=for-the-badge&logoColor=white" />
-</a>
-
+  <table width="100%" style="border: 1px solid #161B22; border-radius: 12px; background-color: #0D1117; padding: 15px;">
+    <tr>
+      <td width="50%" valign="top" style="padding: 15px;">
+        <h4 style="color: #C1121F; margin-top: 0;">CURRENT FOCUS</h4>
+        <ul style="color: #F8F9FA; text-align: left; line-height: 1.8;">
+          <li>Mastering cross-platform state management with <b>Flutter & Dart</b>.</li>
+          <li>Designing scalable relational data architectures using <b>MySQL</b>.</li>
+          <li>Refining modern interactive web experiences with <b>JavaScript</b>.</li>
+          <li>Balancing academic milestones in Software Engineering.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top" style="padding: 15px; border-left: 1px solid #161B22;">
+        <h4 style="color: #C1121F; margin-top: 0;">EXPLORATIONS</h4>
+        <ul style="color: #F8F9FA; text-align: left; line-height: 1.8;">
+          <li><b>Formula 1:</b> Aerodynamic efficiency and race strategy analytics.</li>
+          <li><b>UI/UX:</b> Apple-inspired minimalist design systems and micro-interactions.</li>
+          <li><b>Story Writing:</b> Survival horror and dark fantasy narrative structures.</li>
+          <li><b>Minecraft:</b> Redstone automation and structural architectural design.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
-</td>
-</tr>
-</table>
+<br>
 
-<br/>
+---
 
-<!-- ================= GITHUB DATABASE ================= -->
-<div align="center">
+<br>
 
-### GITHUB DATABASE
+## <p align="center">03 // TECH ARSENAL</p>
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dean&show_icons=true&theme=transparent&title_color=C1121F&icon_color=E11D48&text_color=F8F9FA&border_color=C1121F&hide_border=false&bg_color=00000000" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dean&layout=compact&theme=transparent&title_color=C1121F&text_color=F8F9FA&border_color=C1121F&hide_border=false&bg_color=00000000" />
-
-<br/><br/>
-
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=dean&theme=transparent&background=00000000&ring=C1121F&fire=E11D48&currStreakLabel=F8F9FA&sideLabels=F8F9FA&currStreakNum=F8F9FA&sideNums=F8F9FA&dates=F8F9FA&border=C1121F" />
-
-<br/><br/>
-
-<sub><i>Replace <code>dean</code> above with your actual GitHub username to activate live data.</i></sub>
-
-</div>
-
-<br/>
-
-<!-- ================= CURRENT TRANSMISSION ================= -->
-<div align="center">
-
-### CURRENT TRANSMISSION
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=F8F9FA&center=true&vCenter=true&width=680&height=45&lines=%3E+compiling+focus.exe...;%3E+status%3A+building+quote-of-the-day;%3E+status%3A+studying+flutter+%2B+dart;%3E+next+target%3A+f1-companion;%3E+mindset%3A+precision+over+speed." alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-<!-- ================= ROADMAP ================= -->
-<div align="center">
-
-### ROADMAP
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="100%">
+<br>
 
 <div align="center">
-
-<br/>
-
-**Flutter & Dart**
-<br/>
-`â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘` 65%
-
-<br/>
-
-**PHP & MySQL**
-<br/>
-`â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘` 50%
-
-<br/>
-
-**JavaScript**
-<br/>
-`â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘` 40%
-
-<br/>
-
-**Git & Version Control**
-<br/>
-`â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘` 75%
-
-<br/>
-
-**UI / UX Design**
-<br/>
-`â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘` 55%
-
-<br/>
-
+  <table style="border: none; background: transparent;">
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,javascript,html,css,git,github,vscode,blender,figma" alt="Skill Icons" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-</td>
-</tr>
-</table>
+<br>
 
-<br/>
+---
 
-<!-- ================= INTERESTS ================= -->
+<br>
+
+## <p align="center">04 // PROJECTS</p>
+
+<br>
+
 <div align="center">
-
-### BEYOND THE CODE
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/-C1121F?style=for-the-badge" width="1" height="1"/><br/>
-<b>Formula 1</b><br/>
-<sub>Strategy & Speed</sub>
-</td>
-<td align="center" width="160">
-<b>UI / UX</b><br/>
-<sub>Design Systems</sub>
-</td>
-<td align="center" width="160">
-<b>Minecraft</b><br/>
-<sub>Building Worlds</sub>
-</td>
-<td align="center" width="160">
-<b>Story Writing</b><br/>
-<sub>Crafting Narratives</sub>
-</td>
-</tr>
-</table>
-
+  <table width="100%" style="border-collapse: separate; border-spacing: 15px;">
+    <tr>
+      <td width="50%" style="border: 1px solid #161B22; border-radius: 12px; background-color: #0D1117; padding: 20px;" valign="top">
+        <h3 style="color: #F8F9FA; margin-top: 0;">Quote of the Day</h3>
+        <p style="color: #8B0000; font-size: 12px; font-weight: bold; margin: 5px 0;">STATUS: ACTIVE</p>
+        <p style="color: #F8F9FA; font-size: 14px; line-height: 1.5;">
+          A minimalist web application delivering daily curated quotes focused on discipline, focus, and clarity. Built with a clean interface and optimized for lightning-fast load times.
+        </p>
+        <p style="font-size: 13px; color: #C1121F; font-family: monospace;">PHP &bull; JavaScript &bull; MySQL</p>
+        <a href="https://github.com/dean" style="display: inline-block; padding: 6px 12px; background-color: #161B22; color: #F8F9FA; text-decoration: none; border-radius: 6px; font-size: 12px; border: 1px solid #8B0000;">Repository &rarr;</a>
+      </td>
+      <td width="50%" style="border: 1px solid #161B22; border-radius: 12px; background-color: #0D1117; padding: 20px;" valign="top">
+        <h3 style="color: #F8F9FA; margin-top: 0;">F1 Companion</h3>
+        <p style="color: #8B0000; font-size: 12px; font-weight: bold; margin: 5px 0;">STATUS: COMING SOON</p>
+        <p style="color: #F8F9FA; font-size: 14px; line-height: 1.5;">
+          A sleek, high-precision mobile companion app for tracking Grand Prix schedules, driver standings, and live circuit telemetry with zero clutter.
+        </p>
+        <p style="font-size: 13px; color: #C1121F; font-family: monospace;">Flutter &bull; Dart</p>
+        <a href="https://github.com/dean" style="display: inline-block; padding: 6px 12px; background-color: #161B22; color: #F8F9FA; text-decoration: none; border-radius: 6px; font-size: 12px; border: 1px solid #8B0000;">Repository &rarr;</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+<br>
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
+---
+
+<br>
+
+## <p align="center">05 // METRICS</p>
+
+<br>
+
 <div align="center">
-
-### CONTRIBUTION GRID
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-<br/><br/>
-
-<sub><i>Snake animation auto-generates via GitHub Actions â€” see setup note at bottom of source.</i></sub>
-
+  <table style="border: none; background: transparent;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=dean&show_icons=true&theme=transparent&hide_border=true&title_color=C1121F&text_color=F8F9FA&icon_color=C1121F&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dean&theme=transparent&hide_border=true&stroke=C1121F&ring=C1121F&fire=C1121F&currStreakLabel=F8F9FA&sideLabels=F8F9FA&dates=F8F9FA" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dean&layout=compact&theme=transparent&hide_border=true&title_color=C1121F&text_color=F8F9FA&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+<br>
 
-<!-- ================= CONNECT ================= -->
+---
+
+<br>
+
+## <p align="center">06 // SYSTEM STATUS</p>
+
+<br>
+
 <div align="center">
+  <table width="100%" style="border: 1px solid #161B22; border-radius: 12px; background-color: #0D1117; padding: 20px;">
+    <tr>
+      <td>
+        <pre style="color: #F8F9FA; font-family: 'Fira Code', monospace; text-align: left; margin: 0; padding: 10px; background: #161B22; border-radius: 8px;"><code><span style="color: #C1121F;">STATUS</span> : ONLINE [SECURE]
+<span style="color: #C1121F;">NODE</span>   : INDONESIA (JKT-01)
 
-### OPEN CHANNELS
-
-<br/>
-
-<a href="#"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=F8F9FA" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=E11D48" /></a>
-<a href="#"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=C1121F" /></a>
-
+<span style="color: #C1121F;">CURRENTLY</span>
+  <span style="color: #8B0000;">&gt;</span> Learning Flutter
+  <span style="color: #8B0000;">&gt;</span> Building Quote of the Day
+  <span style="color: #8B0000;">&gt;</span> Planning F1 Companion</code></pre>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
+<br>
 
-<!-- ================= FOOTER ================= -->
 <div align="center">
-
-<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-<br/><br/>
-
-<h3>STAY FOCUSED.</h3>
-
-<sub>Â© Dean â€” System Online</sub>
-
-<br/><br/>
-
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="200" style="opacity: 0.4;" alt="divider" />
+  </p>
+  <p align="center"><samp style="color: #8B0000; letter-spacing: 2px; font-weight: bold;">STAY FOCUSED.</samp></p>
 </div>
 
-<!--
-  SETUP NOTES (delete this comment block once configured):
-
-  1. GitHub Stats / Streak / Top Languages:
-     Replace "dean" in every github-readme-stats.vercel.app and
-     github-readme-streak-stats.herokuapp.com URL with your real
-     GitHub username.
-
-  2. Contribution Snake:
-     Add the official "platane/snk" GitHub Action to your profile
-     repository to auto-generate the snake SVG referenced above.
-     Workflow reference: https://github.com/Platane/snk
-
-  3. Typing SVG lines / colors can be edited directly in the
-     readme-typing-svg.demolab.com URLs (font, size, color, lines).
-
-  4. Replace the Unsplash project image placeholders with real
-     screenshots of Quote of the Day and F1 Companion once available.
--->
