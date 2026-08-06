@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8B0000&text=DEAN&fontColor=ffffff&fontSize=70&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8B0000&text=MASEAN&fontColor=ffffff&fontSize=70&animation=fadeIn"/>
 
 # 👁️ Scott Summers Vibes
 
@@ -22,7 +22,7 @@ Software Engineering Student • Flutter Developer • Formula 1 Fan
 🎓 Major     : Software Engineering
 📱 Learning  : Flutter
 🌐 Backend   : PHP & MySQL
-🏎 Hobby     : Formula 1
+🏎 Hobby     : Drawing
 🎮 Games     : Minecraft & Roblox
 ```
 
