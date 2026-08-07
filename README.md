@@ -2,56 +2,82 @@
 
 # DEAN
 
-`SOFTWARE ENGINEERING STUDENT`
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+`Software Engineering Student`
 
 </div>
 
+<table>
+<tr>
+
+<td valign="top">
+
 ```text
-                         ███████████████████████
-                      █████████████████████████████
-                   ████████░░░░░░░░░░░░████████████
-                ██████░░░░░░░░░░░░░░░░░░░░█████████
-              █████░░░░░░░░░░░░░░░░░░░░░░░░████████
-             ████░░░░░░░░░░████████░░░░░░░░░░██████
-             ███░░░░░░░████████████████░░░░░░░█████
-             ███░░░░░██████      ███████░░░░░░█████
-             ███░░░█████            █████░░░░░█████
-             ███░░████                ████░░░░█████
-             ███░░████                ████░░░░█████
-             ███░░░█████            █████░░░░░█████
-             ███░░░░██████        ██████░░░░░░█████
-             ████░░░░░████████████████░░░░░░██████
-              █████░░░░░░██████████░░░░░░████████
-                ██████░░░░░░░░░░░░░░░░█████████
-                   ████████░░░░░░░░██████████
-                      █████████████████████
-                          █████████████
+__/\\\\____________/\\\\_____/\\\\\\\\\________/\\\\\\\\\\\____/\\\\\\\\\\\\\\\_____/\\\\\\\\\_____/\\\\\_____/\\\_        
+ _\/\\\\\\________/\\\\\\___/\\\\\\\\\\\\\____/\\\/////////\\\_\/\\\///////////____/\\\\\\\\\\\\\__\/\\\\\\___\/\\\_       
+  _\/\\\//\\\____/\\\//\\\__/\\\/////////\\\__\//\\\______\///__\/\\\______________/\\\/////////\\\_\/\\\/\\\__\/\\\_      
+   _\/\\\\///\\\/\\\/_\/\\\_\/\\\_______\/\\\___\////\\\_________\/\\\\\\\\\\\_____\/\\\_______\/\\\_\/\\\//\\\_\/\\\_     
+    _\/\\\__\///\\\/___\/\\\_\/\\\\\\\\\\\\\\\______\////\\\______\/\\\///////______\/\\\\\\\\\\\\\\\_\/\\\\//\\\\/\\\_    
+     _\/\\\____\///_____\/\\\_\/\\\/////////\\\_________\////\\\___\/\\\_____________\/\\\/////////\\\_\/\\\_\//\\\/\\\_   
+      _\/\\\_____________\/\\\_\/\\\_______\/\\\__/\\\______\//\\\__\/\\\_____________\/\\\_______\/\\\_\/\\\__\//\\\\\\_  
+       _\/\\\_____________\/\\\_\/\\\_______\/\\\_\///\\\\\\\\\\\/___\/\\\\\\\\\\\\\\\_\/\\\_______\/\\\_\/\\\___\//\\\\\_ 
+        _\///______________\///__\///________\///____\///////////_____\///////////////__\///________\///__\///_____\/////__
 ```
 
-| | |
-|:--|:--|
-| **👤 Name** | Dean |
-| **🎓 Role** | Software Engineering Student |
-| **📍 Location** | Indonesia |
-| **📱 Learning** | Flutter, Dart, PHP, MySQL |
-| **💻 Focus** | Mobile Apps • Web Development |
-| **🏎 Interests** | Formula 1 • UI Design • Story Writing |
-| **🚀 Projects** | Quote of the Day • F1 Companion |
-| **⚡ Status** | ONLINE |
+</td>
+
+<td valign="top">
+
+```text
+dean@github
+──────────────────────────────
+
+Role
+Software Engineering Student
+
+Location
+Indonesia
+
+Learning
+Flutter
+PHP
+MySQL
+JavaScript
+
+Focus
+Mobile Development
+UI / UX
+
+Projects
+• Quote of the Day
+• F1 Companion
+
+Interests
+• Formula 1
+• Story Writing
+• Minecraft
+
+Status
+● ONLINE
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+## Mission Log
 
-🟥 Quote of the Day
+```text
+> Learning Flutter
 
-> Flutter application with a clean and minimal interface.
+> Building useful applications
 
-🟥 F1 Companion
+> Improving UI & UX
 
-> Formula 1 companion app featuring race schedules, standings, circuits, and more.
+> Preparing F1 Companion
+```
 
 ---
 
@@ -67,9 +93,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Masean34&theme=transparent&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Masean34&theme=transparent&hide_border=true&title_color=8B0000&icon_color=8B0000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masean34&layout=compact&theme=transparent&hide_border=true&title_color=8B0000&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masean34&layout=compact&theme=transparent&hide_border=true&title_color=8B0000"/>
 
 </p>
 
@@ -77,10 +103,8 @@
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━ 🔴 ━━━━━━━━━━━━
 
 `STAY FOCUSED.`
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
