@@ -31,9 +31,7 @@ Outside of programming, I'm interested in Formula 1, UI design, storytelling, an
 
 ---
 
-<p align="center">
-  <img src="cyclops.gif" width="800">
-</p>
+![gif](cyclops.gif)
 
 ---
 
