@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="masean.jpg" width="420">
+  <img src="masean.png" width="420">
 </p>
 
 <table>
