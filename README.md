@@ -24,11 +24,11 @@ Outside of programming, I'm interested in Formula 1, UI design, storytelling, an
 
 ## Current Focus
 
-- 📱 Flutter Development
-- 🌐 Web Development
-- 🎨 UI / UX Design
-- 🏎️ F1 Companion
-- 💬 Quote of the Day
+- Flutter Development
+- Web Development
+- UI / UX Design
+- F1 Companion
+- Quote of the Day
 
 ---
 
@@ -42,13 +42,13 @@ Outside of programming, I'm interested in Formula 1, UI design, storytelling, an
 
 ## Featured Projects
 
-### 💬 Quote of the Day
+### Quote of the Day
 
 A clean Flutter application that displays inspirational quotes with a simple and modern interface.
 
 ---
 
-### 🏎️ F1 Companion
+### Scheone
 
 A companion app for Formula 1 fans featuring race schedules, standings, circuits, and more.
 
