@@ -2,7 +2,6 @@
   <img src="masean.png" width="100%" alt="banner">
 </p>
 
-<h1 align="center">Dean</h1>
 
 <p align="center">
 Software Engineering Student • Indonesia
