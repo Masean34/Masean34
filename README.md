@@ -1,30 +1,57 @@
 <div align="center">
 
-<img src="masean.png" width="100%" alt="Banner">
+<img src="masean.png" width="100%">
 
 </div>
 
-```console
-dean@github:~$ whoami
-
-Name      : Masean
-Role      : Software Engineering Student
-Location  : Indonesia
-Focus     : Mobile & Web Development
-Status    : ● ONLINE
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                       MASEAN SYSTEM v1.0                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║ STATUS      : ONLINE                                            ║
+║ USER        : MASEAN                                            ║
+║ ROLE        : Software Engineering Student                      ║
+║ LOCATION    : Indonesia                                         ║
+║ BUILD       : Mobile & Web Developer                            ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-## About
+```bash
+dean@github:~$ whoami
 
-I'm a Software Engineering student from Indonesia.
-
-I enjoy building mobile and web applications while learning new technologies every day.
-
-Outside programming, I spend my time following Formula 1, writing stories, and exploring game modding.
+> Passionate about building applications.
+> Currently learning Flutter.
+> Interested in Formula 1, UI Design and Story Writing.
+```
 
 ---
 
-## Tech Arsenal
+## SYSTEM INFO
+
+```text
+OS          : Indonesia
+Language    : Indonesian, English (Basic)
+Editor      : VS Code
+Learning    : Flutter, PHP, JavaScript
+Database    : MySQL
+Version     : 17.0
+```
+
+---
+
+## CURRENT MISSION
+
+```text
+[✔] Learn Git & GitHub
+[✔] Build Quote of the Day
+[ ] Build F1 Companion
+[ ] Publish More Projects
+[ ] Learn State Management
+```
+
+---
+
+## TECH STACK
 
 <p align="center">
 
@@ -34,56 +61,49 @@ Outside programming, I spend my time following Formula 1, writing stories, and e
 
 ---
 
-## Projects
+## PROJECT DIRECTORY
 
-### 💬 Quote of the Day
-
-Minimal Flutter application for daily quotes.
-
-### 🏎️ F1 Companion
-
-Formula 1 companion app with schedules, standings, drivers, constructors, and circuits.
-
----
-
-## Mission Log
-
-- [ ] Finish Quote of the Day
-- [ ] Build F1 Companion
-- [ ] Learn Flutter State Management
-- [ ] Learn UI Design
-- [ ] Publish more open source projects
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Masean34&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masean34&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-## Current Status
-
-```console
-dean@github:~$ fastfetch
-
-Role       Software Engineering Student
-Location   Indonesia
-Learning   Flutter • PHP • MySQL • JavaScript
-Projects   Quote of the Day • F1 Companion
-Status     ● ONLINE
+```text
+📁 Projects
+├── 💬 Quote of the Day
+│   └── Flutter Application
+│
+├── 🏎️ F1 Companion
+│   └── Formula One Companion App
+│
+└── 🚧 More Projects Coming Soon...
 ```
 
 ---
 
-<div align="center">
+## SYSTEM STATUS
 
-> "Keep building. Keep learning."
+```text
+CPU        █████████░ 90%
 
-</div>
+Knowledge  ███████░░░ 70%
+
+Coffee     █████░░░░░ 50%
+
+Motivation ██████████ 100%
+```
+
+---
+
+## GITHUB ANALYTICS
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Masean34&theme=transparent&hide_border=true&show_icons=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masean34&layout=compact&theme=transparent&hide_border=true">
+
+</p>
+
+---
+
+```bash
+dean@github:~$ echo "Keep Building."
+
+Keep Building.
+```
