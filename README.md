@@ -53,7 +53,7 @@ A simple app that displays a different quote each day.
 A thriller story project about teenagers who discover something strange involving black snow and a mysterious place called Frostline.
 
 ---
-<User />
+
 ## Status
 
 Still figuring things out.
