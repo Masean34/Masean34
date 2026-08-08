@@ -5,7 +5,7 @@
 
 Student · Indonesia
 
-Making things that makes me happy or calm
+Making things that make me happy or calm
 
 </div>
 
