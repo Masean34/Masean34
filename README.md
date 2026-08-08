@@ -2,11 +2,10 @@
 
 <img src="masean.png" width="650">
 
-# Dean
 
 Student · Indonesia
 
-Making things for school, my CV, and personal projects.
+Making things that makes me happy or calm
 
 </div>
 
