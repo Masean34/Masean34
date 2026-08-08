@@ -60,6 +60,6 @@ Trying different things, working on whatever interests me, and seeing where it t
 
 ![gif](scott.gif)
 
-"Still figuring it out."
+“Still finding my direction.”
 
 </div>
