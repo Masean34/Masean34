@@ -80,6 +80,8 @@ Still figuring out what I actually want to do.
 
 <div align="center">
 
+![gif](scott.gif)
+
 "Still figuring it out."
 
 </div>
