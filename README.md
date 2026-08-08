@@ -1,76 +1,85 @@
-<p align="center">
-  <img src="masean.png" width="100%" alt="banner">
-</p>
+<div align="center">
 
+<img src="masean.png" width="650">
 
-<p align="center">
-Software Engineering Student • Indonesia
-</p>
+# Dean
 
-<p align="center">
-Building simple, useful, and modern applications.
-</p>
+Student · Indonesia
+
+Making things for school, my CV, and personal projects.
+
+</div>
 
 ---
 
 ## About
 
-I'm a software engineering student who enjoys building applications with Flutter and exploring web development.
+I'm Dean, a student who likes exploring a lot of different things rather than sticking to one field.
 
-Outside of programming, I'm interested in Formula 1, UI design, storytelling, and game modding.
+I'm really into Formula 1, especially the cars, teams, circuits, and everything around racing. I also enjoy making stories and fictional worlds, including Frostline, a thriller story I've been developing.
+
+I like game modding, experimenting with design, collecting figures and LEGO, and messing around with different creative projects. Sometimes I build apps or websites too, mostly for school, my CV, or because I have an idea I want to turn into something real.
+
+I'm still figuring out what I want to focus on in the future. For now, I just want to keep making things and exploring whatever catches my interest.
 
 ---
 
 ## Current Focus
 
-- Flutter Development
-- Web Development
-- UI / UX Design
-- F1 Companion
-- Quote of the Day
+- Formula 1
+- Storytelling
+- Game modding
+- UI design
+- Personal projects
+- School projects
 
 ---
 
-![gif](scott.gif)
-
----
-
-## Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,html,css,js,git,github,vscode,blender&theme=dark"/>
-</p>
-
----
-
-## Featured Projects
-
-### Quote of the Day
-
-A clean Flutter application that displays inspirational quotes with a simple and modern interface.
-
----
+## Projects
 
 ### Scheone
 
-A companion app for Formula 1 fans featuring race schedules, standings, circuits, and more.
+A Formula 1 companion app featuring race schedules and other F1-related information.
+
+### Quote of the Day
+
+A simple app that displays a different quote each day.
+
+### Frostline
+
+A thriller story project about teenagers who discover something strange involving black snow and a mysterious place called Frostline.
 
 ---
 
-## GitHub Stats
+## What I'm Learning
 
-<p align="center">
+I'm still figuring things out.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Masean34&theme=transparent&hide_border=true&show_icons=true"/>
+Currently exploring:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masean34&layout=compact&theme=transparent&hide_border=true"/>
+- Flutter
+- PHP
+- MySQL
+- JavaScript
+- UI Design
+- GitHub
 
-</p>
+Some of my projects are AI-assisted. I'm still learning how everything works instead of pretending I already know it.
 
 ---
 
-<p align="center">
+## Status
 
-<i>Stay focused. Keep building.</i>
+Currently studying and working on school projects.
 
-</p>
+Building things when I need them, adding projects to my CV, and experimenting with ideas that interest me.
+
+Still figuring out what I actually want to do.
+
+---
+
+<div align="center">
+
+"Still figuring it out."
+
+</div>
