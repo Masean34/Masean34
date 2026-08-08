@@ -53,17 +53,7 @@ A simple app that displays a different quote each day.
 A thriller story project about teenagers who discover something strange involving black snow and a mysterious place called Frostline.
 
 ---
-<script>
-import { createIcons, user } from 'lucide';
-
-createIcons({
-  icons: {
-    user
-  }
-});
-</script>
-
-<i data-lucide="user"></i> 
+<User />
 ## Status
 
 Still figuring things out.
