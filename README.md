@@ -25,12 +25,10 @@ I'm still figuring out what I want to focus on in the future. For now, I just wa
 
 ## Current Focus
 
-- Formula 1
-- Storytelling
-- Game modding
-- UI design
-- Personal projects
-- School projects
+- UI Design
+- Scheone
+- Frostline
+- Drawing
 
 ---
 
@@ -50,30 +48,11 @@ A thriller story project about teenagers who discover something strange involvin
 
 ---
 
-## What I'm Learning
-
-I'm still figuring things out.
-
-Currently exploring:
-
-- Flutter
-- PHP
-- MySQL
-- JavaScript
-- UI Design
-- GitHub
-
-Some of my projects are AI-assisted. I'm still learning how everything works instead of pretending I already know it.
-
----
-
 ## Status
 
-Currently studying and working on school projects.
+Still figuring things out.
 
-Building things when I need them, adding projects to my CV, and experimenting with ideas that interest me.
-
-Still figuring out what I actually want to do.
+Trying different things, working on whatever interests me, and seeing where it takes me.
 
 ---
 
