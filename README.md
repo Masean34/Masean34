@@ -23,11 +23,17 @@ I'm still figuring out what I want to focus on in the future. For now, I just wa
 
 ---
 
-## Current Focus
+## Interests
 
-- UI Design
-- Scheone
-- Frostline
+Formula 1 · Game Modding · LEGO · Marvel · Drawing · Storytelling
+
+---
+
+## Currently
+
+- Learning UI Design
+- Making Scheone
+- Contuining Frostline
 - Drawing
 
 ---
