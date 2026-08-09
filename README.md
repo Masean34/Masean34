@@ -68,22 +68,21 @@ Trying different things, working on whatever interests me, and seeing where it t
 <tr>
 <td width="100">
 
-<img src="./assets/punkrocker.jpg" width="85" alt="Punkrocker">
+<img src="punkrocker.jpg" width="85" alt="Punkrocker">
 
 </td>
 
 <td>
 
 <b>Punkrocker</b><br>
-Teddybears
+Song By Teddybears
 
 <br>
 
-<code>▶</code> ━━━━━━━━━●━━ <code>3:21 / 3:42</code>
+<code>▶</code> ━━━━━━━━━●━━ <code>2:21 / 2:47</code>
 
 <br>
 
-<sub>Currently listening</sub>
 
 </td>
 </tr>
