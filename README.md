@@ -74,7 +74,7 @@ Trying different things, working on whatever interests me, and seeing where it t
 
 <td>
 
-<b><a href="https://youtu.be/8P09rxVaQAM?si=3kaD3C0YTrq-D-OU">Punkrocker</a></b><br>
+<b>Punkrocker</b><br>
 Song By Teddybears
 
 <br>
