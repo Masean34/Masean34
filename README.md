@@ -62,7 +62,7 @@ Trying different things, working on whatever interests me, and seeing where it t
 
 ---
 
-## Currently Listening
+## W Music
 
 <table>
 <tr>
@@ -74,7 +74,7 @@ Trying different things, working on whatever interests me, and seeing where it t
 
 <td>
 
-<b>Punkrocker</b><br>
+<b><a href="https://youtu.be/8P09rxVaQAM?si=3kaD3C0YTrq-D-OU">Punkrocker</a></b><br>
 Song By Teddybears
 
 <br>
