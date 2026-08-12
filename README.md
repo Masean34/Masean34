@@ -68,18 +68,18 @@ Trying different things, working on whatever interests me, and seeing where it t
 <tr>
 <td width="100">
 
-<img src="punkrocker.jpg" width="85" alt="Punkrocker">
+<img src="earthangel.jpg" width="85" alt="EarthAngel">
 
 </td>
 
 <td>
 
-<b>Punkrocker</b><br>
-Song By Teddybears
+<b>Earth Angel (Will You Be Mine?)</b><br>
+Song By Marvin Berry
 
 <br>
 
-<code>▶</code> ━━━━━━━━━●━━ <code>2:21 / 2:47</code>
+<code>▶</code> ━━━━━━━━━●━━ <code>2:43 / 3:00</code>
 
 <br>
 
