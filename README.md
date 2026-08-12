@@ -32,17 +32,13 @@ Formula 1 · Game Modding · LEGO · Marvel · Drawing · Storytelling
 ## Currently
 
 - Learning UI Design
-- Making Scheone
+- Improving Maedoll
 - Contuining Frostline
 - Drawing
 
 ---
 
 ## Projects
-
-### Scheone
-
-A Formula 1 companion app featuring race schedules and other F1-related information.
 
 ### Quote of the Day
 
