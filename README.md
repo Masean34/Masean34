@@ -5,7 +5,7 @@
 
 Student · Indonesia
 
-Making things that make me happy or calm
+Somewhere between ideas and reality.
 
 </div>
 
@@ -51,6 +51,10 @@ A simple app that displays a different quote each day.
 ### Frostline
 
 A thriller story project about teenagers who discover something strange involving black snow and a mysterious place called Frostline.
+
+### Maedoll
+
+A website for downloading videos or music from YouTube.
 
 ---
 
