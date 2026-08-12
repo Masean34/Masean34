@@ -5,7 +5,7 @@
 
 Student · Indonesia
 
-Somewhere between ideas and reality.
+Curiosity never stays in one place.
 
 </div>
 
