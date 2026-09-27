@@ -92,7 +92,7 @@ Song By Marvin Berry
 
 <div align="center">
 
-![gif](scott.gif)
+![gif](download.gif)
 
 “Still finding my direction.”
 
