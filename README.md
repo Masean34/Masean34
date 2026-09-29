@@ -31,8 +31,7 @@ Formula 1 · Game Modding · LEGO · Marvel · Drawing · Storytelling
 
 ## Currently
 
-- Learning UI Design
-- Improving Maedoll
+- Learning Design
 - Contuining Frostline
 - Drawing
 
@@ -51,6 +50,10 @@ A thriller story project about teenagers who discover something strange involvin
 ### Maedoll
 
 A website for downloading videos or music from YouTube.
+
+### Gabooth
+
+digital photobooth
 
 ---
 
